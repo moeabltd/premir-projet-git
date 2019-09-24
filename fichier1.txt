@@ -1,4 +1,4 @@
-Hello world !
+*Hello world !
 
 ia orana e aha te huru
 
@@ -9,3 +9,5 @@ une ligne depuis la branche branche2
 une ligne depuis la branche branche3
 
 une ligne pour mon chéri branche_fabou
+
+une ligne de Fabrice
